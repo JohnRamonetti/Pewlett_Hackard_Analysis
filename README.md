@@ -6,7 +6,7 @@ Module 7 - PostgreSQL and pgAdmin
 
 
 ## RESOURCES
-- Source Data: departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, [titles.csv](Data/titles.csv)
+- Source Data: departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, titles.csv.
 - Software:  PostgreSQL 11.11, pgAdmin 4.30
 
 
