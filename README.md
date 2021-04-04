@@ -11,7 +11,7 @@
 
 
 ## RESULTS
-  1.  Retirement Titles [(retirement_titles.csv)](Data/retirement_titles.csv).  This table demonstrates the urgent need for the current analysis, showing almost 134K positions that have been held by employees that will retire soon (i.e., born between January 1, 1952 and December 31, 1955).  This table is useful for the mentorship program in that it shows the current position as well as the progression of positions held by those employees that will be retiring soon.  
+*  1.  Retirement Titles [(retirement_titles.csv)](Data/retirement_titles.csv).  This table demonstrates the urgent need for the current analysis, showing almost 134K positions that have been held by employees that will retire soon (i.e., born between January 1, 1952 and December 31, 1955).  This table is useful for the mentorship program in that it shows the current position as well as the progression of positions held by those employees that will be retiring soon.  
 
   2.  Unique Titles [(unique_titles.csv)](Data/unique_titles.csv).  This table show the most recent title of each retiring employee.  It also shows that over 90,000 employees are ready to retire.
 
