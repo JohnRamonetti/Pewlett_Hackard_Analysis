@@ -17,7 +17,7 @@ Module 7 - PostgreSQL and pgAdmin
 
   3.  Retiring Titles [(retiring_titles.csv)](Data/retiring_titles.csv)  This table shows the number of retirement-ready employees by their most recent job title, showing that the greatest number of retirees will be from "Senior Engineer" or "Senior Staff" positions.  It also shows that at least 2 managers are ready to retire.
 
-  4.  Mentorship Eligibility (current employees who were born between January 1, 1965 and December 31, 1965) [(mentorship_eligibilty.csv)](Data/mentorship_eligibility.csv)  This table shows the 1549 current employees, based simply on age, that are eligible to be mentors in the proposed Employee Mentoring program.
+  4.  Mentorship Eligibility (current employees who were born between January 1, 1965 and December 31, 1965) [(mentorship_eligibility.csv)](Data/mentorship_eligibility.csv)  This table shows the 1549 current employees, based simply on age, that are eligible to be mentors in the proposed Employee Mentoring program.
 
 
 ## SUMMARY
