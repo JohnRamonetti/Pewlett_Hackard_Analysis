@@ -1,5 +1,5 @@
 # Pewlett_Hackard_Analysis
-Module 7 - PostgreSQL and pgAdmin
+#### Module 7 - PostgreSQL and pgAdmin
 
 ## OVERVIEW
 ### Purpose:  The purpose of the current analysis is to evaluate the Pewlett Hackard employee profiles to anticipate imminent retirements and to plan accordingly, so that the company is not left suddenly and embarrassingly short-staffed.  After intial review and evaluation of the various employee datafiles received (see RESOURCES section below), the current analysis determines the number of retiring employees per position (title), and identifies employees who are eligible to participate in a mentorship program to help groom current junior employees for higher responsibility.  
