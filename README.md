@@ -7,7 +7,7 @@
 
 ## RESOURCES
 - Source Data: departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, titles.csv.
-- Software:  PostgreSQL 11.11, pgAdmin 4.30
+- Software:  PostgreSQL 11.11, pgAdmin 4.30 
 
 
 ## RESULTS
